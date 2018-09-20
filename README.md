@@ -1,2 +1,2 @@
 # portfolio-template-with-sass
-Portfolio personal
+Personal Portfolio
